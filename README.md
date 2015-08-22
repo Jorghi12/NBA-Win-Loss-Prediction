@@ -1,9 +1,9 @@
 # NBA-Win-Loss-Prediction
 #####Predicts which NBA team wins given a match up of two teams
 
-#####ScrapeWebsite - Scrapes http://www.basketball-reference.com for data on NBA matches
-#####FinalizeDataSets - Combines Scrapped data into seasonal data sets (Stores in Prepared Folder)
-#####DemoModel - Runs our Machine Learning Model
+#####ScrapeWebsite##### - Scrapes http://www.basketball-reference.com for data on NBA matches
+#####FinalizeDataSets##### - Combines Scrapped data into seasonal data sets (Stores in Prepared Folder)
+#####DemoModel##### - Runs our Machine Learning Model
 
 In the Prepared folder, there are data sets from years 2008 to 2015. Each line contains information for both teams in an individual match.
 
