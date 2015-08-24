@@ -1,9 +1,7 @@
 # NBA-Win-Loss-Prediction
 
 #####Data Sets:
-The "NBA CSV" folder contains NBA data from season 1981 to 2015.
-
-Our data is stored in a free Mongo Database as well.
+Our data is stored in a free Mongo Database, containing NBA data from season 1981 to 2014 (30+ years).
 
 #####Project Goal:
 Predicts which NBA team wins given a match up of two teams
