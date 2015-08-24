@@ -1,2 +1,0 @@
-ScrapeWebsite - Scrapes http://www.basketball-reference.com for data on NBA matches
-FinalizeDataSets - Combines Scrapped data into seasonal data sets
