@@ -107,7 +107,7 @@ def trainScoreDifference(years = ['2008','2009','2010','2011','2012','2013','201
 			X = pd.concat(featureDF) #Combine all individual team predictions into 1 large data frame
 			y = pd.concat(targetDF) #Combine all individual team targets into 1 large data frame
 		
-		#Create a prediction model using Linear Regression (Minimum Least Squares error)
+		#Create a prediction model using Linear Regression (Minimum Least Squares error)   
 		clf = svm.SVC(kernel='linear', C = 1.0)
 		y = y.values.ravel()
 		
